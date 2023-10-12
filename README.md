@@ -10,6 +10,8 @@ For the MRI modality,
 1. ‘0’ refers T1 gradient-echo post images;
 2. ‘1’ refers T1 spin-echo pre images; 
 3. ‘2’ refers T1 spin-echo post images;
-4. ‘3’ refers T2 FLAIR post images; 
+4. ‘3’ refers T2 FLAIR post images;
 
-The work is currently under submission, thanks for your kind attention.
+Feature selection is finished by LASSO regression and the prediction modelling is performed by different machine-learning algorithms.
+
+The work is currently under submission; thanks for your kind interest.
